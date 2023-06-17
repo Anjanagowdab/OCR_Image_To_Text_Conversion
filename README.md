@@ -1,1 +1,1 @@
-# OCR_Image_To_Text_Conversion
+# OCR_Image_To_Word
